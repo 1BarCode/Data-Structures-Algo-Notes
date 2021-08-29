@@ -75,7 +75,7 @@ const MaxDepth = (root) => {
 
 MaxDepth(a);
 
-// Breath First Search - BFS
+// Breadth First Search - BFS
 // - Uses a queue
 
 //       a
